@@ -1,0 +1,47 @@
+*{
+    text-align: center;
+    
+}
+form{
+line-height: 30px;
+color:black;
+font-style: italic ;
+font-size: 1.4em;
+background-color: beige;
+width: 2000px;
+}
+
+
+h1{
+
+    
+    text-shadow: 5px 10px 10px black;
+    font-size: 52px;
+}
+
+h1:first-letter{
+    font-size: 64px;
+}
+
+button{
+    border: none;
+    cursor: pointer;
+    background-color: gainsboro;
+    border-bottom: 20px red;
+}
+button:active{
+background-color:greenyellow;
+}
+.two{
+position:fixed;
+    bottom: 30px;
+    left: 1440px;
+    
+}
+
+
+table{
+}
+
+    
+
